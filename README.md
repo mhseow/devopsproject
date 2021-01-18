@@ -1,2 +1,3 @@
-# devopsprojecttest
-testing out some functions
+# devopsproject
+
+#Creating a simple html webpage
