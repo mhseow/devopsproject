@@ -10,5 +10,6 @@
 * How to create Telegram Bot: https://core.telegram.org/bots/api , @BotFather
 * How to get chat id for Telegram channel: https://www.youtube.com/watch?v=I-qI6jeLIsI
 
-
+Sample telegram notification when there is a push to respository
+![](sample-notification.png)
 
